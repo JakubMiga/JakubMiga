@@ -8,8 +8,7 @@ Hi my name is Jakub and I am 24 years old. I graduated from the Cracow Universit
 * HTML / CSS
 * Knowledge of Agile and Scrum methogology
 # Tools
-* Git
-* GitHub
+* Git and Github
 * Chrome DevTools
 * Postman API
 * Jira

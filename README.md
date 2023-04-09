@@ -22,5 +22,6 @@ Hi my name is Jakub and I am 24 years old. I graduated from the Cracow Universit
 * [Git i GitHub](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/learn/lecture/13928492?start=15#overview)
 * [Jira](https://www.udemy.com/share/105GCQ3@XcZjsK1RRzMOnmFi1eydquDmjh0oe8QAuZo0wtvClfd7vp_1bb1K7wYuIcA7onR0ZQ==/)
 # Activities
+* uTest freelancing
 * [GoIT Quality Assurance Marathon](https://qa.m.goit.global/pl/)
 * [Webinar about manual testing and testing site](https://naucz-sie-testowac.czyitjestdlamnie.pl/)

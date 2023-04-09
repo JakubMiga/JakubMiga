@@ -2,20 +2,17 @@
 # About me
 Hi my name is Jakub and I am 24 years old. I graduated from the Cracow University of Economics with a degree in engineering, majoring in management and production engineering. I became interested in the subject of testing a few months before graduation. At that time I was gaining knowledge about manual testing of software and the necessary technical background. I decided to develop in this direction because I enjoy working on projects from a technical and quality perspective. I gain knowledge from courses, attending webinars on testing topics and testing on crowdtesting platforms. Working with data, documentation and a pro-quality approach is my forte. I am motivated and determined to self-develop and expand my qualifications.
 # Technical Skills
-* Znajomość sylabusa ISTQB
-* Podstawowa znajomość: SQL
-* Podstawowa znajomość: Python
+* Knowledge of the ISTQB syllabus.
+* Basic knowledge: SQL
+* Basic knowledge: Python
 * HTML / CSS
 * Knowledge of Agile and Scrum methogology
 # Tools
 * Git and Github
-* Chrome DevTools
+* DevTools
 * Postman API
-* Jira
-* Testlink
-* Redmine
-* TestRail
-* Trello
+* Jira, Trello, Redmine
+* Testlink, TestRail
 # Courses
 * [Software Testing](https://www.udemy.com/share/105trI3@0GokYfHJJk3ceVTLDUQl_PYbDT2exG3gNUXXqivwFDfwV2JFKB1QeqitxElfi4yf0g==/)
 * [Python for Everybody - University of Michigan](https://online.umich.edu/series/python-for-everybody/)
